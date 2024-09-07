@@ -8,7 +8,7 @@ class Solution:
             if(i + extraCandies >= maxV):
                 output.append(True)
             else:
-                output.append(False')
+                output.append(False)
         return(output)
 
 # Testando a função com os parâmetros fornecidos
